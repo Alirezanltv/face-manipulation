@@ -1,5 +1,5 @@
 # face-manipulation
-we've shrinked the nose and changed the left eyelidthe .
+I've shrinked the nose and changed the left eyelidthe .
 
 <p>
    
